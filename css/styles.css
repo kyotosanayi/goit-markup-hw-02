@@ -14,9 +14,10 @@ header {
   font-weight: 700;
   font-style: normal;
   font-size: 18px;
-  line-height: 21px;
-  letter-spacing: 3%;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   text-decoration: none;
+  text-transform: uppercase;
 }
 
 .logo-up-right {
@@ -51,6 +52,26 @@ header {
   letter-spacing: 2%;
   text-decoration: none;
   list-style-type: none;
+}
+
+#nav-bar-one {
+  color: #2e2f42;
+  font-family: inherit;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+#nav-bar-one:hover {
+  color: #404bbf;
+}
+
+#nav-bar-one:focus {
+  color: #404bbf;
 }
 
 .adress-bar {
@@ -150,32 +171,41 @@ header {
   font-style: normal;
   font-size: 20px;
   line-height: 24px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   text-decoration: none;
   list-style-type: none;
 }
 
 .section-two-text {
-  color: #2e2f42;
+  color: #434455;
   font-family: inherit;
   font-weight: 400;
   font-style: normal;
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   text-decoration: none;
   list-style-type: none;
 }
 
-#section-three-title {
+.section-three {
+  background-color: #f4f4fd;
+}
+
+.section-three-list-one {
+  background-color: #ffffff;
+}
+
+.section-three-title {
   color: #2e2f42;
   font-family: inherit;
   font-weight: 700;
   font-style: normal;
   font-size: 36px;
-  line-height: 40px;
-  letter-spacing: 2%;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
   text-decoration: none;
+  text-transform: capitalize;
   list-style-type: none;
   text-align: center;
 }
@@ -187,7 +217,51 @@ header {
   font-style: normal;
   font-size: 20px;
   line-height: 24px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   text-decoration: none;
   list-style-type: none;
+}
+
+.section-three-mini-text {
+  color: #2e2f42;
+  font-family: inherit;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.section-four-title {
+  color: #2e2f42;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+
+.section-four-mini-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.section-four-mini-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.footer {
+  color: #2e2f42;
+}
+
+.footer-text {
+  color: #f4f4fd;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
