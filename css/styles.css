@@ -192,7 +192,7 @@ header {
   background-color: #f4f4fd;
 }
 
-.section-three-list-one {
+.section-three-list {
   background-color: #ffffff;
 }
 
@@ -227,7 +227,7 @@ header {
   font-family: inherit;
   font-weight: 500;
   font-style: normal;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-decoration: none;
@@ -257,7 +257,7 @@ header {
 }
 
 .footer {
-  color: #2e2f42;
+  background-color: #2e2f42;
 }
 
 .footer-text {
