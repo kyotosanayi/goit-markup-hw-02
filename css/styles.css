@@ -1,4 +1,6 @@
 body {
+  color: #434455;
+  background-color: #ffffff;
   font-family: "Roboto", sans-serif;
 }
 
@@ -8,7 +10,7 @@ header {
 
 .logo {
   color: #4d5ae5;
-  font-family: "Raleway", sans-serif;
+  font-family: "Railway", sans-serif;
   font-weight: 700;
   font-style: normal;
   font-size: 18px;
@@ -19,7 +21,7 @@ header {
 
 .logo-up-right {
   color: #2e2f42;
-  font-family: "Raleway", sans-serif;
+  font-family: "Railway", sans-serif;
   font-weight: 700;
   font-style: normal;
   font-size: 18px;
@@ -30,7 +32,7 @@ header {
 
 .logo-down-right {
   color: #f4f4fd;
-  font-family: "Raleway", sans-serif;
+  font-family: "Railway", sans-serif;
   font-weight: 700;
   font-style: normal;
   font-size: 18px;
@@ -63,24 +65,44 @@ header {
   list-style-type: none;
 }
 
+#adress-bar-mail {
+  color: #434455;
+  font-family: inherit;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+#adress-bar-mail:hover {
+  color: #404bbf;
+}
+
+#adress-bar-mail:focus {
+  color: #404bbf;
+}
+
 .section-one {
   background-color: #2e2f42;
 }
 
-#section-one-title {
+.section-one-title {
   color: #ffffff;
   font-family: inherit;
   font-weight: 700;
   font-style: normal;
   font-size: 56px;
-  line-height: 60px;
-  letter-spacing: 2%;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
   text-decoration: none;
   list-style-type: none;
   text-align: center;
 }
 
-#section-one-button {
+.section-one-button {
   background-color: #4d5ae5;
   color: #ffffff;
   font-family: inherit;
@@ -88,7 +110,7 @@ header {
   font-style: normal;
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 4%;
+  letter-spacing: 0.04em;
   text-decoration: none;
   list-style-type: none;
   text-align: center;
@@ -97,6 +119,15 @@ header {
   padding-right: 32px;
   padding-bottom: 16px;
   padding-left: 32px;
+  cursor: pointer;
+}
+
+.section-one-button:hover {
+  background-color: #404bbf;
+}
+
+.section-one-button:focus {
+  background-color: #404bbf;
 }
 
 #section-two-title {
