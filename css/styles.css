@@ -74,10 +74,10 @@ header {
   font-style: normal;
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 
-.adress-bar-mail {
+#adress-bar-mail {
   color: #434455;
   font-family: inherit;
   font-weight: 400;
@@ -87,11 +87,11 @@ header {
   letter-spacing: 0.02em;
 }
 
-.adress-bar-mail:hover {
+#adress-bar-mail:hover {
   color: #404bbf;
 }
 
-.adress-bar-mail:focus {
+#adress-bar-mail:focus {
   color: #404bbf;
 }
 
@@ -207,6 +207,7 @@ header {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
 }
 
 .section-four-mini-title {
