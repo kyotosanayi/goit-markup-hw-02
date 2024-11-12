@@ -16,7 +16,6 @@ header {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  text-decoration: none;
   text-transform: uppercase;
 }
 
@@ -28,7 +27,6 @@ header {
   font-size: 18px;
   line-height: 21px;
   letter-spacing: 3%;
-  text-decoration: none;
 }
 
 .logo-down-right {
@@ -39,7 +37,6 @@ header {
   font-size: 18px;
   line-height: 21px;
   letter-spacing: 3%;
-  text-decoration: none;
 }
 
 .nav-bar {
@@ -50,8 +47,6 @@ header {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
-  text-decoration: none;
-  list-style-type: none;
 }
 
 #nav-bar-one {
@@ -62,8 +57,6 @@ header {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-decoration: none;
-  list-style-type: none;
 }
 
 #nav-bar-one:hover {
@@ -82,8 +75,6 @@ header {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
-  text-decoration: none;
-  list-style-type: none;
 }
 
 #adress-bar-mail {
@@ -94,8 +85,6 @@ header {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-decoration: none;
-  list-style-type: none;
 }
 
 #adress-bar-mail:hover {
@@ -118,9 +107,6 @@ header {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  text-decoration: none;
-  list-style-type: none;
-  text-align: center;
 }
 
 .section-one-button {
@@ -132,9 +118,6 @@ header {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.04em;
-  text-decoration: none;
-  list-style-type: none;
-  text-align: center;
   cursor: pointer;
 }
 
@@ -154,9 +137,6 @@ header {
   font-size: 36px;
   line-height: 40px;
   letter-spacing: 2%;
-  text-decoration: none;
-  list-style-type: none;
-  text-align: center;
 }
 
 .section-two-mini-title {
@@ -167,8 +147,6 @@ header {
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-decoration: none;
-  list-style-type: none;
 }
 
 .section-two-text {
@@ -179,8 +157,6 @@ header {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-decoration: none;
-  list-style-type: none;
 }
 
 .section-three {
@@ -199,10 +175,7 @@ header {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  text-decoration: none;
   text-transform: capitalize;
-  list-style-type: none;
-  text-align: center;
 }
 
 .section-three-mini-title {
@@ -213,8 +186,6 @@ header {
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-decoration: none;
-  list-style-type: none;
 }
 
 .section-three-mini-text {
@@ -225,15 +196,12 @@ header {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-decoration: none;
-  list-style-type: none;
 }
 
 .section-four-title {
   color: #2e2f42;
   font-size: 36px;
   line-height: 1.11;
-  text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
