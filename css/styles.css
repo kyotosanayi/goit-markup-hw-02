@@ -77,7 +77,7 @@ header {
   letter-spacing: 2%;
 }
 
-#adress-bar-mail {
+.adress-bar-mail {
   color: #434455;
   font-family: inherit;
   font-weight: 400;
@@ -87,11 +87,11 @@ header {
   letter-spacing: 0.02em;
 }
 
-#adress-bar-mail:hover {
+.adress-bar-mail:hover {
   color: #404bbf;
 }
 
-#adress-bar-mail:focus {
+.adress-bar-mail:focus {
   color: #404bbf;
 }
 
@@ -107,6 +107,7 @@ header {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 
 .section-one-button {
@@ -129,7 +130,7 @@ header {
   background-color: #404bbf;
 }
 
-#section-two-title {
+.section-two-title {
   color: #2e2f42;
   font-family: inherit;
   font-weight: 700;
@@ -137,6 +138,7 @@ header {
   font-size: 36px;
   line-height: 40px;
   letter-spacing: 2%;
+  text-align: center;
 }
 
 .section-two-mini-title {
@@ -176,6 +178,7 @@ header {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
 }
 
 .section-three-mini-title {
